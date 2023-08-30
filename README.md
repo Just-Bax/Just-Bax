@@ -51,5 +51,9 @@
 
 ---
 
-<p align="left"><a href="https://leetcode.com/Just-Bax"><img src="https://stats.justsong.cn/api/leetcode/?username=Just-Bax&theme=light"></a></p>
-<p align="right"><a href="https://github.com/Just-Bax"><img src="https://stats.justsong.cn/api/github?username=Just-Bax"></a></p>
+### My stats:
+
+<p>
+  <a align="left" href="https://leetcode.com/Just-Bax"><img src="https://stats.justsong.cn/api/leetcode/?username=Just-Bax&theme=light"></a>>
+  <a align="right" href="https://github.com/Just-Bax"><img src="https://stats.justsong.cn/api/github?username=Just-Bax"></a>
+</p>
