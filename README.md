@@ -50,3 +50,5 @@
 <p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=vscode,powershell,selenium,linux"></a></p>
 
 ---
+
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://stats.justsong.cn/api/leetcode/?username=Just-Bax&theme=light"></a></p>
