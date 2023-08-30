@@ -11,42 +11,42 @@
 
 ### Frontend technologies:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,tailwind,bootstrap"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,tailwind,bootstrap"></a></p>
 
 ---
 
 ### Backend technologies:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express"></a></p>
 
 ---
 
 ### Databases:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"></a></p>
 
 ---
 
 ### Design and UI/UX:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=figma,ps"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=figma,ps"></a></p>
 
 ---
 
 ### Cloud Services:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"></a></p>
 
 ---
 
 ### Web Hosting and Deployment:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=nginx,netlify,heroku"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=nginx,netlify,heroku"></a></p>
 
 ---
 
 ### Other Tools:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=vscode,powershell,selenium,linux"></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=vscode,powershell,selenium,linux"></a></p>
 
 ---
