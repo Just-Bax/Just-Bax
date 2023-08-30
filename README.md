@@ -9,26 +9,44 @@
 
 ---
 
-### 📚 Technologies I know:
+### Frontend technologies:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,tailwind,bootstrap"></p>
 
 ---
 
-### ⚙️ GitHub statistics:
+### Backend technologies:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Just-Bax&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Just-Bax&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express"></p>
 
-<p align="left">
-  <a href="https://github.com/Just-Bax?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Just-Bax?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-  <a href="https://github.com/Just-Bax"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Just-Bax?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
+---
+
+### Databases:
+
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"></p>
+
+---
+
+### Design and UI/UX:
+
+<p align="left"><img src="https://skillicons.dev/icons?i=figma,ps"></p>
+
+---
+
+### Cloud Services:
+
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"></p>
+
+---
+
+### Web Hosting and Deployment:
+
+<p align="left"><img src="https://skillicons.dev/icons?i=nginx,netlify,heroku"></p>
+
+---
+
+### Other Tools:
+
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,unity,powershell,selenium,linux"></p>
+
+---
