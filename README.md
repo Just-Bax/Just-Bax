@@ -11,7 +11,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
@@ -24,7 +24,5 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Just-Bax?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Just-Bax?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-  <a href="https://github.com/Just-Bax"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Just-Bax?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
+<a href="https://github.com/Just-Bax?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Just-Bax?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+<a href="https://github.com/Just-Bax"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Just-Bax?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
