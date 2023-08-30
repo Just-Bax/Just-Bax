@@ -47,6 +47,6 @@
 
 ### Other Tools:
 
-<p align="left"><img src="https://skillicons.dev/icons?i=vscode,unity,powershell,selenium,linux"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,powershell,selenium,linux"></p>
 
 ---
