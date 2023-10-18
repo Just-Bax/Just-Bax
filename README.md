@@ -50,10 +50,3 @@
 <p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=vscode,powershell,selenium,linux"></a></p>
 
 ---
-
-### My stats:
-
-<p>
-  <a href="https://leetcode.com/Just-Bax"><img src="https://stats.justsong.cn/api/leetcode/?username=Just-Bax&theme=light"></a>
-  <a href="https://github.com/Just-Bax"><img src="https://stats.justsong.cn/api/github?username=Just-Bax"></a>
-</p>
