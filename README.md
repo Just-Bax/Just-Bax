@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a seasoned developer with four years of experience. I began my journey as a freelancer on Kwork, gained valuable experience at UzInfoCom, and I now contribute my expertise as part of the dynamic team at OneVizion.</p>
+<p align="left">I'm a seasoned developer with four years of experience. I began my journey as a freelancer on Kwork, gained valuable experience at Uzinfocom, and I now contribute my expertise as part of the dynamic team at OneVizion.</p>
 
 ###
 
