@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,express" height="50"/>
+     <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,express,php" height="50"/>
   </a>
 </div>
 
