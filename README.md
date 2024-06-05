@@ -52,7 +52,7 @@
 
 <div align="left">
   <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel,replit" height="50"/>
+     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel" height="50"/>
   </a>
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="left">
   <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=docker,jenkins,github,gitlab" height="50"/>
+     <img src="https://skillicons.dev/icons?i=docker,github" height="50"/>
   </a>
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="left">
   <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=bash,powershell,postman,selenium,vscode" height="50"/>
+     <img src="https://skillicons.dev/icons?i=bash,postman,selenium,vscode" height="50"/>
   </a>
 </div>
 
