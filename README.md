@@ -64,3 +64,5 @@ I enjoy solving complex problems, building automation tools, and leading develop
 
 - [LinkedIn](https://www.linkedin.com/in/isfandiyor-bakhtiyorov/)
 - Email: isfandiyor.baxtiyorov.uz@gmail.com
+
+---
