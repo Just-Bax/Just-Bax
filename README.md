@@ -5,8 +5,6 @@
 I am a backend-focused software engineer from Uzbekistan, specializing in Python development, PL/SQL, and scalable system design.  
 I enjoy solving complex problems, building automation tools, and leading development teams to deliver high-quality software.
 
----
-
 ## 💼 Career
 
 ### Python & PL/SQL Developer - OneVizion  
@@ -50,7 +48,6 @@ I enjoy solving complex problems, building automation tools, and leading develop
 
 **Skills:** `Python` · `Flask` · `SQLAlchemy` · `BS4` · `Selenium` · `REST API` · `Docker`
 
----
 
 ## 🌐 Languages
 
@@ -58,11 +55,7 @@ I enjoy solving complex problems, building automation tools, and leading develop
 - **Russian** — C1 (Advanced)
 - **English** — B2 (Upper-Intermediate)
 
----
-
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/isfandiyor-bakhtiyorov/)
 - Email: isfandiyor.baxtiyorov.uz@gmail.com
-
----
