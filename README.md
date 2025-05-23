@@ -1,83 +1,66 @@
-<h1 align="left">👋 Hello, I am Isfandiyor</h1>
+# 👋 Hey, I am Isfandiyor
 
-###
+## 🧑‍💻 About Me
 
-<h2 align="left">About me</h2>
+I am a backend-focused software engineer from Uzbekistan, specializing in Python development, PL/SQL, and scalable system design.  
+I enjoy solving complex problems, building automation tools, and leading development teams to deliver high-quality software.
 
-###
+---
 
-<p align="left">I'm a seasoned developer with 3 years of experience. I began my journey as a freelancer on Kwork, gained valuable experience at Uzinfocom, and I now contribute my expertise as part of the dynamic team at OneVizion.</p>
+## 💼 Career
 
-###
+### Python & PL/SQL Developer - OneVizion  
+**Jul 2023 – Present**
 
-<h2 align="left">Frontend technologies:</h2>
+- Developed and maintained PL/SQL packages for enterprise big data processing systems.
+- Wrote and optimized scalable Python microservices integrated with Microsoft, Stripe, and AWS.
+- Contributed to IT consulting and automation of business processes.
 
-###
+**Skills:** `Python` · `SQLAlchemy` · `Oracle PL/SQL` · `Docker` · `Git`
 
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=js,ts,vue,react,vite,tailwind,bootstrap,html,css" height="50"/>
-  </a>
-</div>
+---
 
-###
+### Full-stack Developer - "Single integrator - UZINFOCOM" LLC  
+**Feb 2023 – Present**
 
-<h2 align="left">Backend technologies:</h2>
+- Developed and maintained a custom Dashboard Builder using FastAPI, Vue.js, and Tailwind CSS.
+- Responsible for backend architecture, data analysis, and dashboard development.
+- Wrote and optimized complex SQL queries and REST APIs.
 
-###
+**Skills:** `Python` · `FastAPI` · `JavaScript` · `TypeScript` · `Vue.js` · `Tailwind CSS` · `SQL` · `Oracle PL/SQL` · `Docker` · `Git`
 
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,php" height="50"/>
-  </a>
-</div>
+---
 
-###
+### Python Team Lead - CodeRed  
+**Feb 2023 – Dec 2023**
 
-<h2 align="left">Databases:</h2>
+- Led a team of 6–8 developers, managing tasks and responsibilities.
+- Solved complex backend challenges and mentored junior developers.
+- Built high-performance scripts, APIs, and internal tools using Python.
 
-###
+**Skills:** `Python` · `Flask` · `FastAPI` · `SQLAlchemy` · `Telebot` · `BS4` · `Selenium` · `PostgreSQL` · `Docker` · `Git`
 
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" height="50"/>
-  </a>
-</div>
+---
 
-###
+### Freelance Python Developer - Kwork  
+**Jan 2022 – Jun 2023**
 
-<h2 align="left">Cloud Services:</h2>
+- Completed 100+ freelance projects focused on data parsing and integration with external REST APIs.
+- Developed automation tools for data extraction and storage from various websites.
 
-###
+**Skills:** `Python` · `Flask` · `SQLAlchemy` · `BS4` · `Selenium` · `REST API` · `Docker`
 
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel" height="50"/>
-  </a>
-</div>
+---
 
-###
+## 🌐 Languages
 
-<h2 align="left">Tools:</h2>
+- **Uzbek** — Native
+- **Russian** — C1 (Advanced)
+- **English** — B2 (Upper-Intermediate)
 
-###
+---
 
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=docker,github" height="50"/>
-  </a>
-</div>
+## 📫 Contact Me
 
-###
-
-<h2 align="left">Soft Skills:</h2>
-
-###
-
-<div align="left">
-  <a href="https://github.com/Just-Bax">
-     <img src="https://skillicons.dev/icons?i=bash,postman,selenium,vscode" height="50"/>
-  </a>
-</div>
-
-###
+- [LinkedIn](https://www.linkedin.com/in/isfandiyor-bakhtiyorov/)
+- Email: isfandiyor.baxtiyorov.uz@gmail.com
